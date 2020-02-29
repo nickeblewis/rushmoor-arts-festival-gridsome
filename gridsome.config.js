@@ -22,7 +22,7 @@ var embedConfig = {
 };
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Rushmoor Arts Festival',
   siteUrl: 'https://gridsome-starter-articles.now.sh',
   permalinks: {
     trailingSlash:false

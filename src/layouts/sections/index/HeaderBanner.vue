@@ -1,7 +1,7 @@
 <template>
   <section class="height-30 bg-dark text-white jarallax">
     <g-image
-      src="~/resources/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+      src="~/resources/images/_DSC3420.jpg"
       class="jarallax-img opacity-40"
       alt="ITSMPlus"
     />

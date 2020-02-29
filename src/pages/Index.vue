@@ -7,11 +7,11 @@
 
     <SectionContribute></SectionContribute>
 
-    <SectionInfoBoxes></SectionInfoBoxes>
+    <!-- <SectionInfoBoxes></SectionInfoBoxes> -->
 
     <SectionLatestNews></SectionLatestNews>
 
-    <SectionOpenSource></SectionOpenSource>
+    <!-- <SectionOpenSource></SectionOpenSource> -->
        
   </DefaultLayout>
 </template>

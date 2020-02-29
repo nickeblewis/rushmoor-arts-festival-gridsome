@@ -30,20 +30,20 @@
                 </g-link>
               
             </li>
-            <li class="list-inline-item mb-0">
+            <!-- <li class="list-inline-item mb-0">
               
                 <g-link to="/credits" class="nav-link">
                   Credits
                 </g-link>
               
-            </li>
-            <li class="list-inline-item mb-0">
+            </li> -->
+            <!-- <li class="list-inline-item mb-0">
               <b-navbar-brand class="mb-0">
               <a href="https://github.com/noxify/gridsome-starter-articles" target="_blank" class="nav-link text-light" alt="ITSM+ Github Repository" rel="noopener">
                 <font-awesome :icon="['fab', 'github']"></font-awesome>
               </a>
               </b-navbar-brand>
-            </li>
+            </li> -->
           </ul>
         </b-col>
       </b-row>

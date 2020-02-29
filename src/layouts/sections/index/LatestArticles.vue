@@ -2,8 +2,8 @@
   <section class="pt-5">
     <b-container>
       <div class="text-center">
-        <h2>Lastest Articles</h2>
-        <p class="lead">Curious what new articles are on our website? Check out our latest articles!</p>
+        <h2>Latest Stuff1</h2>
+        <p class="lead">Our first section of stuff but this can be whatever we wish maybe Events?</p>
       </div>
 
       <div>
