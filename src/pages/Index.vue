@@ -35,7 +35,7 @@ export default {
     SectionOpenSource
   },
   metaInfo: {
-    title: "Th!nk different"
+    title: "Rushmoor Arts Festival"
   }
 };
 </script>
